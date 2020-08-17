@@ -17,7 +17,7 @@
                     <finalName>${project.artifactId}-git-${git.branch}-${git.commit.id}</finalName>
                     <archive>
                         <manifest>
-                            <mainClass>com.github.kvac.reverseshell.reverseshell.bot.init.Init</mainClass>
+                            <mainClass>com.github.kvac.shells.shells.bot.init.Init</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

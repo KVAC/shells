@@ -1,7 +1,7 @@
-package com.github.kvac.reverseshell.reverseshell.server.header;
+package com.github.kvac.shells.shells.server.header;
 
-import com.github.kvac.reverseshell.reverseshell.server.network.MinaBotsHandler;
-import com.github.kvac.reverseshell.reverseshell.server.network.bots.ServerBots;
+import com.github.kvac.shells.shells.server.network.MinaBotsHandler;
+import com.github.kvac.shells.shells.server.network.bots.ServerBots;
 import lombok.Getter;
 import org.apache.mina.core.service.IoAcceptor;
 import org.apache.mina.transport.socket.nio.NioSocketAcceptor;

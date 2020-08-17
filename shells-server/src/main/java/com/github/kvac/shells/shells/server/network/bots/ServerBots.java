@@ -1,6 +1,6 @@
-package com.github.kvac.reverseshell.reverseshell.server.network.bots;
+package com.github.kvac.shells.shells.server.network.bots;
 
-import com.github.kvac.reverseshell.reverseshell.server.header.SERVERHEADER;
+import com.github.kvac.shells.shells.server.header.SERVERHEADER;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import org.apache.mina.core.session.IdleStatus;

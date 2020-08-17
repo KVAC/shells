@@ -1,4 +1,4 @@
-package com.github.kvac.reverseshell.reverseshell.server.network;
+package com.github.kvac.shells.shells.server.network;
 
 import org.apache.mina.core.service.IoHandlerAdapter;
 

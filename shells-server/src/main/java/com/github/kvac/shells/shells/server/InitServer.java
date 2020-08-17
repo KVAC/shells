@@ -1,6 +1,6 @@
-package com.github.kvac.reverseshell.reverseshell.server;
+package com.github.kvac.shells.shells.server;
 
-import com.github.kvac.reverseshell.reverseshell.server.header.SERVERHEADER;
+import com.github.kvac.shells.shells.server.header.SERVERHEADER;
 
 public class InitServer {
 
